@@ -1,0 +1,121 @@
+[notice] A new release of pip is available: 24.0 -> 26.0.1
+[notice] To update, run: pip install --upgrade pip
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:65:80: E501 line too long (83 > 79 characters)
+src/computeSales.py:69:80: E501 line too long (83 > 79 characters)
+src/computeSales.py:117:80: E501 line too long (81 > 79 characters)
+src/computeSales.py:122:1: W293 blank line contains whitespace
+src/computeSales.py:124:5: E303 too many blank lines (3)
+src/computeSales.py:135:80: E501 line too long (88 > 79 characters)
+src/computeSales.py:155:80: E501 line too long (85 > 79 characters)
+src/computeSales.py:174:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:200:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:65:6: E111 indentation is not a multiple of 4
+src/computeSales.py:68:5: E122 continuation line missing indentation or outdented
+src/computeSales.py:70:6: E111 indentation is not a multiple of 4
+src/computeSales.py:118:6: E111 indentation is not a multiple of 4
+src/computeSales.py:120:6: E111 indentation is not a multiple of 4
+src/computeSales.py:125:6: E111 indentation is not a multiple of 4
+src/computeSales.py:126:1: W293 blank line contains whitespace
+src/computeSales.py:128:5: E303 too many blank lines (2)
+src/computeSales.py:139:80: E501 line too long (88 > 79 characters)
+src/computeSales.py:159:80: E501 line too long (85 > 79 characters)
+src/computeSales.py:178:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:204:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:70:6: E111 indentation is not a multiple of 4
+src/computeSales.py:118:6: E111 indentation is not a multiple of 4
+src/computeSales.py:120:6: E111 indentation is not a multiple of 4
+src/computeSales.py:125:6: E111 indentation is not a multiple of 4
+src/computeSales.py:126:1: W293 blank line contains whitespace
+src/computeSales.py:128:5: E303 too many blank lines (2)
+src/computeSales.py:139:80: E501 line too long (88 > 79 characters)
+src/computeSales.py:159:80: E501 line too long (85 > 79 characters)
+src/computeSales.py:178:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:204:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:118:6: E111 indentation is not a multiple of 4
+src/computeSales.py:120:6: E111 indentation is not a multiple of 4
+src/computeSales.py:125:6: E111 indentation is not a multiple of 4
+src/computeSales.py:126:1: W293 blank line contains whitespace
+src/computeSales.py:128:5: E303 too many blank lines (2)
+src/computeSales.py:139:80: E501 line too long (88 > 79 characters)
+src/computeSales.py:159:80: E501 line too long (85 > 79 characters)
+src/computeSales.py:178:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:204:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:118:6: E111 indentation is not a multiple of 4
+src/computeSales.py:120:10: E111 indentation is not a multiple of 4
+src/computeSales.py:120:10: E117 over-indented
+src/computeSales.py:126:1: W293 blank line contains whitespace
+src/computeSales.py:128:5: E303 too many blank lines (2)
+src/computeSales.py:139:80: E501 line too long (88 > 79 characters)
+src/computeSales.py:159:80: E501 line too long (85 > 79 characters)
+src/computeSales.py:178:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:204:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:118:10: E111 indentation is not a multiple of 4
+src/computeSales.py:118:10: E117 over-indented
+src/computeSales.py:120:10: E111 indentation is not a multiple of 4
+src/computeSales.py:120:10: E117 over-indented
+src/computeSales.py:126:1: W293 blank line contains whitespace
+src/computeSales.py:128:5: E303 too many blank lines (2)
+src/computeSales.py:139:80: E501 line too long (88 > 79 characters)
+src/computeSales.py:159:80: E501 line too long (85 > 79 characters)
+src/computeSales.py:178:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:204:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:120:10: E111 indentation is not a multiple of 4
+src/computeSales.py:120:10: E117 over-indented
+src/computeSales.py:124:9: E122 continuation line missing indentation or outdented
+src/computeSales.py:126:1: W293 blank line contains whitespace
+src/computeSales.py:128:5: E303 too many blank lines (2)
+src/computeSales.py:139:80: E501 line too long (88 > 79 characters)
+src/computeSales.py:159:80: E501 line too long (85 > 79 characters)
+src/computeSales.py:178:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:204:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:121:9: E122 continuation line missing indentation or outdented
+src/computeSales.py:122:9: E122 continuation line missing indentation or outdented
+src/computeSales.py:123:9: E122 continuation line missing indentation or outdented
+src/computeSales.py:126:1: W293 blank line contains whitespace
+src/computeSales.py:128:5: E303 too many blank lines (2)
+src/computeSales.py:139:80: E501 line too long (88 > 79 characters)
+src/computeSales.py:159:80: E501 line too long (85 > 79 characters)
+src/computeSales.py:178:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:204:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:126:1: W293 blank line contains whitespace
+src/computeSales.py:128:5: E303 too many blank lines (2)
+src/computeSales.py:139:80: E501 line too long (88 > 79 characters)
+src/computeSales.py:159:80: E501 line too long (85 > 79 characters)
+src/computeSales.py:178:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:204:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:125:16: W291 trailing whitespace
+src/computeSales.py:138:80: E501 line too long (88 > 79 characters)
+src/computeSales.py:158:80: E501 line too long (85 > 79 characters)
+src/computeSales.py:177:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:203:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:125:16: W291 trailing whitespace
+src/computeSales.py:161:80: E501 line too long (85 > 79 characters)
+src/computeSales.py:180:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:206:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:125:16: W291 trailing whitespace
+src/computeSales.py:181:80: E501 line too long (84 > 79 characters)
+src/computeSales.py:207:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:125:16: W291 trailing whitespace
+src/computeSales.py:211:80: E501 line too long (83 > 79 characters)
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:125:16: W291 trailing whitespace
+src/computeSales.py:213:14: E131 continuation line unaligned for hanging indent
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:125:16: W291 trailing whitespace
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+src/computeSales.py:125:20: W291 trailing whitespace
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 % flake8 src
+(.venv) (base) gerardosolis@MacBook-Pro-de-GERARDO-2 952702_A5.2 %           
